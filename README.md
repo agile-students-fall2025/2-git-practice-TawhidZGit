@@ -1,2 +1,7 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Interesting Article
+[AI—The good, the bad, and the scary](https://eng.vt.edu/magazine/stories/fall-2023/ai.html)
+
+# Why I found this article interesting?
+This article discusses the benefits and drawbacks of Artificial Intelligence (AI). Now that AI is rapidly evolving, it became almost essential for people to at least grasp the leverage such a tool brings. And although AI has many positives to it, it also has came with its share of flaws. This is why this article sparked an interest to me. I know its critical to be able to understand the good and bad side of AI if I want to be someone who intends to use it to its fulletst. 
+
+The articles discusses AI's positive capabilties by claiming that the technology enhances accessibility and quality of life, improves human–machine communication, making brainstorming and emotional support more accessible, and boosts efficiency, safety, and sustainability, optimizing processes and reducing errors. The articles highlights the bad side of AI by saying it suffers from bias and unfairness, causes people to have an over-reliance on AI tools, and a large carbon footprint. The "scary" side consists of AI threatening workforce stability and behaving as a propaganda tool. By reading this article, I was able to get a much better understanding of the current state of AI and the effects it has.
